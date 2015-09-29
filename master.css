@@ -1,0 +1,63 @@
+@import url(https://fonts.googleapis.com/css?family=Expletus+Sans:400,700);
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Expletus Sans', cursive;
+  background-image: url('/images/bgfinal.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.icons {
+  display: inline-block;
+  height: 40px;
+}
+
+h1 {
+  font-size: 250%;
+  font-weight: bold;
+}
+
+.left {
+  float: left;
+  background-image: url("https://s-media-cache-ak0.pinimg.com/236x/2f/86/41/2f86414b14ad261979f5055236ede815.jpg");
+}
+
+#fbee {
+  
+  height: 100%;
+  box-sizing: border-box;
+}
+
+#header {
+  box-sizing: border-box;
+  background-color: blue;
+  height: 100px;
+}
+
+#main {
+  margin-top: 100px;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+/*
+
+white:#F5E6E8
+orange:#E94F37
+yellow:#DBD8AE
+purple:#D5C6E0
+*/
